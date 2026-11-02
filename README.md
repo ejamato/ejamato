@@ -10,7 +10,7 @@
 
 <h2 align="center">ABOUT EJA</h2>
 
-<img src="./assets/expression.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="./assets/pinguin.gif" width="250" align="right" style="margin-left: 20px;" />
 
 <p>
   Halo! Kenalin, aku Eja.
