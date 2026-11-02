@@ -10,16 +10,21 @@
 
 <h2 align="center">ABOUT EJA</h2>
 
-<img src="./assets/expression.gif" width="220" align="right" alt="EJA" />
+<img src="./assets/expression.gif" width="250" align="right" style="margin-left: 20px;" />
 
 <p>
-  Halo! Aku <b>Eja</b>, developer yang suka mengeksplorasi teknologi,
-  membuat proyek, dan belajar hal baru.
+  Halo! Kenalin, aku Eja.
   <br/><br/>
-  <em>Building ideas, one pixel at a time.</em>
+  Aku suka menghabiskan waktu dengan komputer, mencoba hal-hal baru, dan sesekali membuat sesuatu yang mungkin awalnya cuma muncul dari rasa penasaran. Belakangan ini aku cukup sering berkutat dengan coding, meskipun masih banyak hal yang belum aku pahami.
+  <br/><br/>
+  Aku juga bukan orang yang terlalu pandai mendeskripsikan diri sendiri, jadi agak bingung sebenarnya mau cerita apa di sini, haha.
+  <br/><br/>
+  Selebihnya, mungkin kamu bisa mengenalku sedikit demi sedikit.
+  <br/><br/>
+  <em>Just figuring things out, one day at a time.</em>
 </p>
 
-<br/>
+<br clear="right"/>
 
 <h2 align="center">TECHNOLOGIES</h2>
 
